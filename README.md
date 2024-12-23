@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**BenMahmoudIchrak/BenMahmoudIchrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hi, I'm Ichrak Ben Mahmoud ! Welcome to my GitHub profile !**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Software Engineer with a strong interest in AI, mobile development, web technologies, and data-driven solutions.   
+I ✨ _enjoy_ ✨ solving complex problems, exploring innovative ideas, and creating impactful solutions. I am also curious about discovering new cultures, traditions, and places, which fuels my creativity and perspective.    
+
+As a dedicated Software Engineer, I thrive on tackling challenging problems and bringing innovative ideas to life.  
+My strengths lie in blending technical expertise with creativity to develop impactful solutions in AI, mobile development, and web technologies.  
+I am driven by a strong curiosity to learn, adapt, and explore, which not only enhances my professional growth but also inspires me to approach every project with a fresh perspective.
+
+  
+#### 🌟 Technologies
+
+
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)  [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)  [![.Net Badge](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&labelColor=black&logo=.net&logoColor=512BD4)](#)  [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)  [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)  [![Symfony Badge](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&labelColor=black&logo=symfony&logoColor=FFFFFF)](#)  [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)  [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD343)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=FFFFFF)](#)  [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=FFFFFF)](#)  [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=FFFFFF)](#)  [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=000000)](#)  [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=FFFFFF)](#)  [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=FFFFFF)](#)  [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=FFFFFF)](#)  [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)  [![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FFFFFF)](#)  [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=FFFFFF)](#)    [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=FFFFFF)](#)  [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=FFFFFF)](#)  [![Talend Badge](https://img.shields.io/badge/-Talend-0095D5?style=for-the-badge&labelColor=black&logo=talend&logoColor=FFFFFF)](#)  [![SSIS Badge](https://img.shields.io/badge/-SSIS-CC2927?style=for-the-badge&labelColor=black&logo=microsoft&logoColor=FFFFFF)](#)  [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=000000)](#)  [![Agile Badge](https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=FFFFFF)](#)  [![Scrum Badge](https://img.shields.io/badge/-Scrum-007396?style=for-the-badge&labelColor=black&logo=scrumalliance&logoColor=FFFFFF)](#)  [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&labelColor=black&logo=trello&logoColor=FFFFFF)](#)  [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=FFFFFF)](#)  [![AI Badge](https://img.shields.io/badge/-Artificial%20Intelligence-007396?style=for-the-badge&labelColor=black&logo=google&logoColor=FFFFFF)](#)  [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FFFFFF)](#)  [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)](#)  [![DevOps Badge](https://img.shields.io/badge/-DevOps-007ACC?style=for-the-badge&labelColor=black&logo=azuredevops&logoColor=FFFFFF)](#)  [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=FFFFFF)](#)  [![Odoo Badge](https://img.shields.io/badge/-Odoo-5A2D87?style=for-the-badge&labelColor=black&logo=odoo&logoColor=FFFFFF)](#)  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=FFFFFF)](#)  [![Rasa Badge](https://img.shields.io/badge/-Rasa-5A2D87?style=for-the-badge&labelColor=black&logo=rasa&logoColor=FFFFFF)](#)  [![Blockchain Badge](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&labelColor=black&logo=blockchaindotcom&logoColor=FFFFFF)](#)  [![UI/UX Badge](https://img.shields.io/badge/-UI/UX%20Design-007ACC?style=for-the-badge&labelColor=black&logo=figma&logoColor=FFFFFF)](#)  
+
+**Connect with me**
+
+:email: ichrak.benmahmoud@esprit.tn
+
+

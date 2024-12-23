@@ -1,3 +1,5 @@
+![Ichrak](./Capture%20d'écran%202024-12-23%20132552.png)
+
 ## Hello there 👋
 
 
